@@ -7,10 +7,10 @@ import { Navbar } from '@/components/navbar';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'TeamSync - Build. Collaborate. Innovate.',
+  title: 'Unity Hub - Build. Collaborate. Innovate.',
   description: 'The future of team collaboration and project management. Connect with developers, join hackathons, and build amazing projects together.',
   openGraph: {
-    title: 'TeamSync - Build. Collaborate. Innovate.',
+    title: 'Unity Hub - Build. Collaborate. Innovate.',
     description: 'The future of team collaboration and project management. Connect with developers, join hackathons, and build amazing projects together.',
     images: ['https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&h=630&q=80'],
   },
